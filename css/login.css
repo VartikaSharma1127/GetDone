@@ -1,0 +1,86 @@
+#login_form_box{
+	border: 1px solid white;
+	width: 50%;
+	margin: 250px auto;
+	margin-top:100px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+
+	background-image: url('../images/lgbox.jfif');
+}
+
+caption{
+	
+	margin-top:50px;
+	margin-left:220px;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	text-align: left;
+	padding: 8px 20px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+
+}
+
+.lft{
+	text-align: right;
+	width: 40%;
+	font-size: 20px;
+	color: #3e3e3e;
+}
+
+.rht{
+	width: 58%;
+}
+
+.mdl{
+	width: 2%;
+}
+
+#login_form_box tr{
+	height: 50px;
+}
+
+.fld{
+	border: 1px solid#3e3e3e;
+	padding: 5px 8px;
+	font-size: 16px;
+	border-radius: 3px;
+}
+
+#lgnbtn{
+	border: 1px solid #3e3e3e;
+	border-radius: 3px;
+	font-size: 20px;
+	background-color: #3e3e3e;
+	color: white; 
+	padding:1px 10px;
+}
+
+#btn_box{
+	text-align: center; 
+	margin-top:12px;
+}
+
+#a{
+	padding:1px;
+	color:#750000;
+	text-align: center; 
+}
+
+#h{
+   color:#3e3e3e;
+   font-size:12px;
+   text-decoration:underline;
+   font-weight:bold;
+   margin-top:20px;
+
+}
+#main_body{
+	height:400px;
+	background-image: url('../images/bg.jpg');
+	margin-bottom:300px;
+}

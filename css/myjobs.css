@@ -1,0 +1,18 @@
+#jobs{
+font-family:verdana;
+font-weight:bold;
+font-size:20px;
+color:#750000;
+border: 2px solid #750000;
+margin-top:0px;
+margin-left:40px;
+margin-right:40px;
+border-top-left-radius: 10px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 20px;
+}
+
+.menuop{
+text-align:center;
+}

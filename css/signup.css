@@ -1,0 +1,81 @@
+.errmsg{
+	background-color: white;
+	color: black;
+	font-size:10px;
+	font-weight:bold;
+	visibility: hidden;
+}
+
+
+
+
+#box{	
+	background-image: url('../images/lgbox.jfif');
+	width: 50%;
+	margin: 50px auto;
+	margin-top:50px;
+	margin-bottom:30px;
+	text-align:center;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+
+	}
+
+
+
+#repass,#uname,#email,#passw{
+text-align: left;
+padding:2px 4px;
+width: 40%;
+font-size: 15px;
+color: black;
+
+
+
+}
+input{
+
+border: 1px solid #3e3e3e;;
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+}
+
+
+
+h2{
+text-align:center;
+padding-top:30px;
+color:white;
+margin-top:100px;
+text-decoration:underline;
+}
+
+#btn{
+	
+	border-radius: 3px;
+	font-size: 20px;
+	background-color: #3e3e3e;;
+	color: white; 
+	padding:1px 10px;
+	font-weight:italic;
+	font-size:20px;
+	border: 1px solid #3e3e3e;;
+		
+}
+
+#btn_box{
+	text-align: center; 
+	margin-top:12px;
+
+}
+
+#regform{background-image: url('../images/bg2.jpg');
+height:500px;
+}

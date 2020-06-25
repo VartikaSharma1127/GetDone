@@ -1,0 +1,52 @@
+#t{
+	font-size:20px;
+	height:500px;
+	background-image: url('../images/bb.jpg');}
+
+	}
+#h{
+font-size:50px;
+}
+	
+table {
+text-align:center;
+padding-left:5px;
+padding-right:5px;	
+padding: 20px 12px;
+border:1px solid black;
+margin-top:50px;
+
+}
+
+#mdv{
+margin-top:50px;
+margin-left:300px;
+margin-right:300px;
+color: black;
+font-size:15px;
+text-decoration:underline;
+padding-left:30px;
+padding-right:30px;
+
+}
+
+.dif{
+color:white ;
+font-size:30px;
+text-decoration:underline;
+}
+
+td{
+	
+text-decoration:underline;
+
+}
+
+.op{
+background-color:white;
+
+}
+.menuop{
+border-radius: 20px;
+border:1px solid white;
+}

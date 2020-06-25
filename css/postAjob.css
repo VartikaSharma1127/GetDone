@@ -1,0 +1,70 @@
+#table_box{
+	border: 1px solid black;
+	margin: 50px auto;
+	border-radius: 15px;
+	
+	width:80%;
+	}
+caption{
+	
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding: 8px 20px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.lft{
+	text-align:right;
+	margin-right:20px;
+	width: 20%;
+	font-size: 20px;
+	color: black;
+}
+
+.rht{
+	width: 70%;
+
+}
+
+.mdl{
+	width: 1%;
+	color:black;
+}
+
+#table_box tr{
+	height: 50px;
+}
+
+.fld{
+	border: 1px solid black;
+	padding: 5px 8px;
+	font-size: 16px;
+	border-radius: 3px;
+
+}
+
+#svbtn{
+	border: 1px solid black;
+	border-radius: 3px;
+	font-size: 20px;
+	
+	color: black; 
+}
+
+#svbtn_box{
+	text-align: center; 
+}
+
+#sel{
+	color: black;
+	background-color: white; 
+	font-size:16px;
+}
+#a{
+margin-top: 30px;
+}
+
+#radio{color:white;}
