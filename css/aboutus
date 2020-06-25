@@ -1,0 +1,51 @@
+p{
+	margin-top:50px;
+	font-size:18px;
+	color:white;
+	text-decoration: none;
+	text-align: center;
+
+}
+#mdv{
+margin-top:50px;
+margin-top:100px;
+margin-left:30px;
+margin-right:30px;
+color: white;
+
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+padding-left:10px;
+
+padding-right:10px;
+
+
+}
+#dv{
+margin-top:0px;
+
+border:1px solid black;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+padding-left:10px;
+padding-right:10px;
+background-image: url('../images/ggg.jpg');
+height:600px;
+
+
+}
+
+h1{
+	text-decoration:underline;
+	margin-top:30px;
+	color:black;
+	text-align:center;
+
+}
+h3{
+	text-decoration:underline;
+	margin-top:30px;
+	color:white;
+	text-align:center;
+
+}
